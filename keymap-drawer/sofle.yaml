@@ -64,7 +64,7 @@ layers:
   - Raise
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:backspace-reverse-outline$$
-  - Ctl+ $$mdi:keyboard-tab$$
+  - Ctl+$$mdi:keyboard-tab$$
   Lower:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '1', s: '!'}
@@ -101,8 +101,8 @@ layers:
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - HOME
-  - PG UP
-  - PgDn
+  - PG DOWN
+  - PgUp
   - END
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -152,10 +152,10 @@ layers:
   - '*'
   - {t: '$$mdi:transfer$$', type: trans}
   - HOME
-  - Ctl+ $$mdi:arrow-left-bold$$
-  - Ctl+ $$mdi:arrow-down-bold$$
-  - Ctl+ $$mdi:arrow-up-bold$$
-  - Ctl+ $$mdi:arrow-right-bold$$
+  - Ctl+$$mdi:arrow-left-bold$$
+  - Ctl+$$mdi:arrow-down-bold$$
+  - Ctl+$$mdi:arrow-up-bold$$
+  - Ctl+$$mdi:arrow-right-bold$$
   - PG UP
   - END
   - KP 4
